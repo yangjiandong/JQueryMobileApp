@@ -18,10 +18,11 @@ public class NewsActivity extends Activity {
         mWebView.getSettings().setJavaScriptEnabled(true);
         mWebView.getSettings().setDomStorageEnabled(true);
         //mWebView.loadUrl("file:///android_asset/www/index.html");
-        mWebView.loadUrl("file:///android_asset/icecream/index.html");
+        //mWebView.loadUrl("file:///android_asset/icecream/index.html");
         //mWebView.loadUrl("file:///android_asset/demos/index.html");
 
         //mWebView.loadUrl("file:///android_asset/slidemenu/index.html");
+        mWebView.loadUrl("file:///android_asset/ngmobile/index.html");
     }
 
     public boolean onKeyDown(int keyCode, KeyEvent event) {

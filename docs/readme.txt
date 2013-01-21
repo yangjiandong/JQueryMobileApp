@@ -10,6 +10,9 @@ jquery.mobile
     2. slidemenu
     https://github.com/tegansnyder/JQuery-Mobile-Slide-Menu
 
+    3.ngmobile
+    https://github.com/Jehu/ng-mobile
+
 2012.12.03
 ----------
 
